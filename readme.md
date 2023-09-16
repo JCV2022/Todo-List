@@ -12,11 +12,11 @@ This website exists to focus in on Javascript and how to code buttons so that an
 
 A list of task objects todoList is created and the Javascript code calls the renderTodoList function. The function grabs the name and due date of each task inputted by the user and displays the html on the page using document.querySelector. The code listens for a "click" event for the delete button for each task. If a delete button is clicked, the specific task in the list gets spliced or removed and calls the renderTodoList function again to update the html on the page.
 
-![image-20230910191721691](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230910191721691.png)
+![](images/js1.png)
 
 In the addTodo function, both types of inputs (the names and dates) are stored in two constant variables and are added to the todoList array as objects whenever the "click" event is heard from the add button. 
 
-![image-20230910214209515](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230910214209515.png)
+![](images/js.png)
 
 ## Getting Started/Requirements
 
@@ -26,7 +26,7 @@ A code editor program is needed. Any should do fine, I used Visual Studio Code t
 
 If you do use Visual Studio Code as your code editor, install the extension Live Server to be able to run the code in real-time.
 
-![image-20230910181043468](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230910181043468.png)
+![](images/liveserver.png)
 
 ## Contact Info
 
