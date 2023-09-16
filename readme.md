@@ -6,7 +6,7 @@ This website exists to focus in on Javascript and how to code buttons so that an
 
 
 
-![todo_list](img/todo_list.gif)
+![todo_list](images/todo_list.gif)
 
 ## Core Technical Concepts
 
